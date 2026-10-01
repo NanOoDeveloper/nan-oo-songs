@@ -42,7 +42,9 @@ Hoo Jai Yoo Tee Sahtani Latprao
 တရွေ့ရွေ့ဝေးရင်း
 ကိုယ့် နှလုံးသားက
 Latpraoမှာ ကျန်ခဲ့ပေါ့ ကလေးရေ
-Hoo Jai Yoo Tee Sahtani Latprao`,nadi:`နဒီ
+Hoo Jai Yoo Tee Sahtani Latprao
+
+တေးရေး - နန်းဦး`,nadi:`နဒီ
 ကိုယ့်ရင်ထဲ စီးဆင်းသွားတဲ့ မြစ်ကလေးပေါ့
 နဒီရဲ့ အပြုံးနုလေးများထဲ လက်ပစ်ကူးချင်တယ်
 
@@ -63,7 +65,9 @@ Em                 A                 D                 Bm
 
 ဒါဟာ အိမ်မက်ဖြစ်နေလည်း ပြန်မနိုးထချင်ပါ။
 
-နေဦး မပြန်နဲ့ဦး......နဒီ`,"late-love":`နောက်ကျအချစ်
+နေဦး မပြန်နဲ့ဦး......နဒီ
+
+တေးရေး - နန်းဦး`,"late-love":`နောက်ကျအချစ်
 Verse 1
 C G Am Em FG
 ပြန်တွေ့ချိန်လေး
@@ -104,7 +108,9 @@ Am Em
 Am Em
 အချစ်လေး မင်းလာတာ နောက်ကျတယ်
 F G
-အချစ်မင်းလာတာနောက်ကျလွန်းပါတယ်`,"quit-v2":`အလုပ်ထွက်လိုက်ပြီ
+အချစ်မင်းလာတာနောက်ကျလွန်းပါတယ်
+
+တေးရေး - နန်းဦး`,"quit-v2":`အလုပ်ထွက်လိုက်ပြီ
 E7 Am
 ဒါတွေ ဘယ်ကစဖြစ်တာလဲ
 လူတွေ အသင်းဂိုဏ်းဂနတွေဖွဲ့
@@ -126,7 +132,9 @@ F G Am G
 အလုပ်လုပ်ဖို့က စိတ်မရှုပ်
 ဒရာမာများ စိတ်ပျက်တယ်
 လူတွေကို ဖော်ရွေစွာ အလိုက်ထိုက် ဆက်ဆံရတာ စိတ်ကုန်
-ငါ အလုပ်ထွက်လိုက်ပြီ`,beach:`Beach is Calling
+ငါ အလုပ်ထွက်လိုက်ပြီ
+
+တေးရေး - နန်းဦး`,beach:`Beach is Calling
 ကိုယ်နိုးလာတယ်
 ပုံမှန်အတိုင်းပဲ
 ရုံးသွားဖို့ ကုန်းရုန်းထပြီး
@@ -153,7 +161,9 @@ Beach is calling
 Beach is calling
 Beach is calling
 ကမ်းခြေမှာ နားမယ်
-ဖုန်းကို ပိတ်ထားတယ်။`,ivory:`ဆင်စွယ်ရောင် မိန်းကလေး
+ဖုန်းကို ပိတ်ထားတယ်။
+
+တေးရေး - နန်းဦး`,ivory:`ဆင်စွယ်ရောင် မိန်းကလေး
 Cho:
 မယုံနိုင်ပါဘူး
 ဒီလိုလှရက်တာ
@@ -212,7 +222,9 @@ D7                                   G
 လက်ကလေးများက သေးသေးသွယ်
 ညှင်းသဲ့သဲ့ ရယ်သံက
 ဆေးသကြားလို ချိုရဲတယ်
-ကိုယ့်နားထဲ နှလုံးပီဘိ ဂွမ်းဆီ ထိပေါ့ကွယ်`};le[`late-love-original`]=le[`late-love`],le[`bye-bye-bye`]=`နောက်နေ့များမှာလည်း ထပ်တွေ့ချင်တယ်
+ကိုယ့်နားထဲ နှလုံးပီဘိ ဂွမ်းဆီ ထိပေါ့ကွယ်
+
+တေးရေး - နန်းဦး`};le[`late-love-original`]=le[`late-love`],le[`bye-bye-bye`]=`နောက်နေ့များမှာလည်း ထပ်တွေ့ချင်တယ်
 
 Verse (1)
 D7		Am
@@ -276,4 +288,6 @@ D7.      E7
 
 End
 Bye Bye Bye ဒီညလေးတော့
-နှုတ်ဆက်ပါတယ် ကလေးရယ်`;var ue=o((e=>{var t=Symbol.for(`react.transitional.element`),n=Symbol.for(`react.fragment`);function r(e,n,r){var i=null;if(r!==void 0&&(i=``+r),n.key!==void 0&&(i=``+n.key),`key`in n)for(var a in r={},n)a!==`key`&&(r[a]=n[a]);else r=n;return n=r.ref,{$$typeof:t,type:e,key:i,ref:n===void 0?null:n,props:r}}e.Fragment=n,e.jsx=r,e.jsxs=r})),T=o(((e,t)=>{t.exports=ue()}))(),E=[{title:`ဆင်စွယ်ရောင်မိန်းကလေး`,file:`ivory`,note:`ဆင်စွယ်ရောင် မိန်းကလေး`},{title:`Beach is Calling`,file:`beach`,note:`Nan Oo`},{title:`နဒီ`,file:`nadi`,note:`Nan Oo`},{title:`နောက်ကျ အချစ် Acoustic`,file:`late-love`,note:`Acoustic`},{title:`နောက်ကျ အချစ် (Original Version)`,file:`late-love-original`,note:`Original Version`},{title:`အလုပ်ထွက်လိုက်ပြီ`,file:`quit-v2`,note:`Nan Oo`},{title:`Lad Prao ဘူတာ`,file:`satani-v3`,note:`Nan Oo`},{title:`နောက်နေ့များမှာလည်း ထပ်တွေ့ချင်တယ်`,file:`bye-bye-bye`,note:`Nan Oo`}];function de(){let e=(0,S.useRef)(null),[t,n]=(0,S.useState)(0),[r,i]=(0,S.useState)(!1),[a,o]=(0,S.useState)(``);function s(i){let a=e.current;if(a){if(o(``),t===i&&r){a.pause();return}(t!==i||!a.getAttribute(`src`))&&(a.src=`./media/`+E[i].file+`.mp3`,n(i)),a.play().catch(()=>o(`Playback could not start. Please press play to try again.`))}}return(0,S.useEffect)(()=>{let t=document.modelContext;if(!t)return;let r=new AbortController;try{Promise.resolve(t.registerTool({name:`play_song`,description:`Play a Nan Oo song by track number, from 1 to ${E.length}.`,inputSchema:{type:`object`,properties:{track:{type:`integer`,minimum:1,maximum:E.length}},required:[`track`],additionalProperties:!1},annotations:{readOnlyHint:!1},execute:async t=>{let r=t?.track;if(!Number.isInteger(r)||r<1||r>E.length)throw Error(`Choose track 1–${E.length}.`);let i=e.current;if(!i)throw Error(`Player unavailable`);return i.src=`./media/`+E[r-1].file+`.mp3`,n(r-1),await i.play(),{playing:E[r-1].title}}},{signal:r.signal})).catch(()=>{})}catch{}return()=>r.abort()},[]),(0,T.jsxs)(T.Fragment,{children:[(0,T.jsxs)(`header`,{className:`topbar`,children:[(0,T.jsxs)(`a`,{href:`#`,className:`wordmark`,children:[`NAN OO`,(0,T.jsx)(`span`,{className:`brand-dot`})]}),(0,T.jsxs)(`a`,{href:`#songs`,children:[`THE RELEASE `,(0,T.jsx)(w,{size:14})]})]}),(0,T.jsxs)(`main`,{children:[(0,T.jsxs)(`section`,{className:`release`,children:[(0,T.jsxs)(`div`,{className:`art-side`,children:[(0,T.jsx)(`div`,{className:`cover-frame`,children:(0,T.jsx)(`img`,{src:`./media/cover-v4.png`,alt:`Nan Oo — ဆင်စွယ်ရောင် မိန်းကလေး release artwork`,width:`2380`,height:`2380`})}),(0,T.jsxs)(`div`,{className:`art-caption`,children:[(0,T.jsx)(`span`,{children:`NAN OO / SONG COLLECTION`}),(0,T.jsxs)(`span`,{children:[`01 — `,String(E.length).padStart(2,`0`)]})]})]}),(0,T.jsxs)(`div`,{className:`intro`,children:[(0,T.jsxs)(`p`,{className:`eyebrow`,children:[(0,T.jsx)(`span`,{}),` EIGHT TRACKS. ONE RELEASE.`]}),(0,T.jsxs)(`h1`,{children:[`ဆင်စွယ်ရောင်`,(0,T.jsx)(`br`,{}),`မိန်းကလေး`]}),(0,T.jsx)(`p`,{className:`artist`,children:`Nan Oo`}),(0,T.jsxs)(`p`,{className:`intro-copy`,children:[`A little love. A little escape.`,(0,T.jsx)(`br`,{}),`Press play and stay a while.`]}),(0,T.jsxs)(`button`,{className:`listen`,onClick:()=>s(t),children:[r?(0,T.jsx)(ae,{size:19,fill:`currentColor`}):(0,T.jsx)(oe,{size:19,fill:`currentColor`}),r?`Pause listening`:`Listen now`]}),(0,T.jsxs)(`a`,{className:`explore`,href:`#songs`,children:[`Explore the songs `,(0,T.jsx)(w,{size:15})]})]})]}),(0,T.jsxs)(`section`,{id:`songs`,className:`songs`,children:[(0,T.jsxs)(`div`,{className:`section-head`,children:[(0,T.jsxs)(`div`,{children:[(0,T.jsx)(`p`,{className:`eyebrow`,children:`THE TRACKLIST`}),(0,T.jsx)(`h2`,{children:`Find your song.`})]}),(0,T.jsxs)(`span`,{children:[E.length,` TRACKS`]})]}),(0,T.jsx)(`div`,{className:`tracklist`,children:E.map((e,n)=>(0,T.jsxs)(`article`,{className:`track `+(t===n?`selected`:``),children:[(0,T.jsxs)(`div`,{className:`track-main`,children:[(0,T.jsx)(`span`,{className:`number`,children:String(n+1).padStart(2,`0`)}),(0,T.jsx)(`button`,{className:`track-play`,onClick:()=>s(n),"aria-label":`${t===n&&r?`Pause`:`Play`} ${e.title}`,children:t===n&&r?(0,T.jsx)(ae,{size:18,fill:`currentColor`}):(0,T.jsx)(oe,{size:18,fill:`currentColor`})}),(0,T.jsxs)(`div`,{className:`track-info`,children:[(0,T.jsx)(`h3`,{children:e.title}),(0,T.jsx)(`p`,{children:e.note})]}),(0,T.jsx)(`span`,{className:`track-format`,children:t===n&&r?`NOW PLAYING`:`MP3`})]}),le[e.file]&&(0,T.jsxs)(`details`,{className:`lyrics`,children:[(0,T.jsx)(`summary`,{children:e.file===`satani-v3`?`Lyrics`:`Lyrics & chords`}),(0,T.jsx)(`div`,{lang:`my`,children:le[e.file]})]})]},e.file))})]})]}),(0,T.jsxs)(`footer`,{children:[(0,T.jsx)(`span`,{className:`wordmark`,children:`NAN OO`}),(0,T.jsx)(`span`,{children:`This is a demo version, not a mastered recording.`})]}),(0,T.jsxs)(`div`,{className:`player`,children:[(0,T.jsxs)(`div`,{className:`now`,children:[(0,T.jsx)(ie,{size:30,className:r?`spinning`:``}),(0,T.jsxs)(`div`,{children:[(0,T.jsx)(`small`,{children:r?`NOW PLAYING`:`READY TO PLAY`}),(0,T.jsx)(`p`,{children:E[t].title})]})]}),(0,T.jsx)(`audio`,{ref:e,controls:!0,preload:`none`,src:`./media/ivory.mp3`,onPlay:()=>i(!0),onPause:()=>i(!1),onError:()=>o(`This song could not load. Please try again.`),onEnded:()=>{i(!1),t<E.length-1&&s(t+1)}}),(0,T.jsx)(`button`,{className:`next`,"aria-label":`Next song`,onClick:()=>s((t+1)%E.length),children:(0,T.jsx)(se,{size:21})}),a&&(0,T.jsx)(`p`,{role:`alert`,className:`error`,children:a})]})]})}(0,ce.createRoot)(document.getElementById(`root`)).render((0,T.jsx)(de,{}));
+နှုတ်ဆက်ပါတယ် ကလေးရယ်
+
+တေးရေး - နန်းဦး`;var ue=o((e=>{var t=Symbol.for(`react.transitional.element`),n=Symbol.for(`react.fragment`);function r(e,n,r){var i=null;if(r!==void 0&&(i=``+r),n.key!==void 0&&(i=``+n.key),`key`in n)for(var a in r={},n)a!==`key`&&(r[a]=n[a]);else r=n;return n=r.ref,{$$typeof:t,type:e,key:i,ref:n===void 0?null:n,props:r}}e.Fragment=n,e.jsx=r,e.jsxs=r})),T=o(((e,t)=>{t.exports=ue()}))(),E=[{title:`ဆင်စွယ်ရောင်မိန်းကလေး`,file:`ivory`,note:`ဆင်စွယ်ရောင် မိန်းကလေး`},{title:`Beach is Calling`,file:`beach`,note:`Nan Oo`},{title:`နဒီ`,file:`nadi`,note:`Nan Oo`},{title:`နောက်ကျ အချစ် Acoustic`,file:`late-love`,note:`Acoustic`},{title:`နောက်ကျ အချစ် (Original Version)`,file:`late-love-original`,note:`Original Version`},{title:`အလုပ်ထွက်လိုက်ပြီ`,file:`quit-v2`,note:`Nan Oo`},{title:`Lad Prao ဘူတာ`,file:`satani-v3`,note:`Nan Oo`},{title:`နောက်နေ့များမှာလည်း ထပ်တွေ့ချင်တယ်`,file:`bye-bye-bye`,note:`Nan Oo`},{title:`ဆင်စွယ်ရောင်မိန်းကလေး`,file:`ivory`,note:`ဆင်စွယ်ရောင် မိန်းကလေး`}];function de(){let e=(0,S.useRef)(null),[t,n]=(0,S.useState)(0),[r,i]=(0,S.useState)(!1),[a,o]=(0,S.useState)(``);function s(i){let a=e.current;if(a){if(o(``),t===i&&r){a.pause();return}(t!==i||!a.getAttribute(`src`))&&(a.src=`./media/`+E[i].file+`.mp3`,n(i)),a.play().catch(()=>o(`Playback could not start. Please press play to try again.`))}}return(0,S.useEffect)(()=>{let t=document.modelContext;if(!t)return;let r=new AbortController;try{Promise.resolve(t.registerTool({name:`play_song`,description:`Play a Nan Oo song by track number, from 1 to ${E.length}.`,inputSchema:{type:`object`,properties:{track:{type:`integer`,minimum:1,maximum:E.length}},required:[`track`],additionalProperties:!1},annotations:{readOnlyHint:!1},execute:async t=>{let r=t?.track;if(!Number.isInteger(r)||r<1||r>E.length)throw Error(`Choose track 1–${E.length}.`);let i=e.current;if(!i)throw Error(`Player unavailable`);return i.src=`./media/`+E[r-1].file+`.mp3`,n(r-1),await i.play(),{playing:E[r-1].title}}},{signal:r.signal})).catch(()=>{})}catch{}return()=>r.abort()},[]),(0,T.jsxs)(T.Fragment,{children:[(0,T.jsxs)(`header`,{className:`topbar`,children:[(0,T.jsxs)(`a`,{href:`#`,className:`wordmark`,children:[`NAN OO`,(0,T.jsx)(`span`,{className:`brand-dot`})]}),(0,T.jsxs)(`a`,{href:`#songs`,children:[`THE RELEASE `,(0,T.jsx)(w,{size:14})]})]}),(0,T.jsxs)(`main`,{children:[(0,T.jsxs)(`section`,{className:`release`,children:[(0,T.jsxs)(`div`,{className:`art-side`,children:[(0,T.jsx)(`div`,{className:`cover-frame`,children:(0,T.jsx)(`img`,{src:`./media/cover-v4.png`,alt:`Nan Oo — ဆင်စွယ်ရောင် မိန်းကလေး release artwork`,width:`2380`,height:`2380`})}),(0,T.jsxs)(`div`,{className:`art-caption`,children:[(0,T.jsx)(`span`,{children:`NAN OO / SONG COLLECTION`}),(0,T.jsxs)(`span`,{children:[`01 — `,String(E.length).padStart(2,`0`)]})]})]}),(0,T.jsxs)(`div`,{className:`intro`,children:[(0,T.jsxs)(`p`,{className:`eyebrow`,children:[(0,T.jsx)(`span`,{}),` NINE TRACKS. ONE RELEASE.`]}),(0,T.jsxs)(`h1`,{children:[`ဆင်စွယ်ရောင်`,(0,T.jsx)(`br`,{}),`မိန်းကလေး`]}),(0,T.jsx)(`p`,{className:`artist`,children:`Nan Oo`}),(0,T.jsxs)(`p`,{className:`intro-copy`,children:[`A little love. A little escape.`,(0,T.jsx)(`br`,{}),`Press play and stay a while.`]}),(0,T.jsxs)(`button`,{className:`listen`,onClick:()=>s(t),children:[r?(0,T.jsx)(ae,{size:19,fill:`currentColor`}):(0,T.jsx)(oe,{size:19,fill:`currentColor`}),r?`Pause listening`:`Listen now`]}),(0,T.jsxs)(`a`,{className:`explore`,href:`#songs`,children:[`Explore the songs `,(0,T.jsx)(w,{size:15})]})]})]}),(0,T.jsxs)(`section`,{id:`songs`,className:`songs`,children:[(0,T.jsxs)(`div`,{className:`section-head`,children:[(0,T.jsxs)(`div`,{children:[(0,T.jsx)(`p`,{className:`eyebrow`,children:`THE TRACKLIST`}),(0,T.jsx)(`h2`,{children:`Find your song.`})]}),(0,T.jsxs)(`span`,{children:[E.length,` TRACKS`]})]}),(0,T.jsx)(`div`,{className:`tracklist`,children:E.map((e,n)=>(0,T.jsxs)(`article`,{className:`track `+(t===n?`selected`:``),children:[(0,T.jsxs)(`div`,{className:`track-main`,children:[(0,T.jsx)(`span`,{className:`number`,children:String(n+1).padStart(2,`0`)}),(0,T.jsx)(`button`,{className:`track-play`,onClick:()=>s(n),"aria-label":`${t===n&&r?`Pause`:`Play`} ${e.title}`,children:t===n&&r?(0,T.jsx)(ae,{size:18,fill:`currentColor`}):(0,T.jsx)(oe,{size:18,fill:`currentColor`})}),(0,T.jsxs)(`div`,{className:`track-info`,children:[(0,T.jsx)(`h3`,{children:e.title}),(0,T.jsx)(`p`,{children:e.note})]}),(0,T.jsx)(`span`,{className:`track-format`,children:t===n&&r?`NOW PLAYING`:`MP3`})]}),le[e.file]&&(0,T.jsxs)(`details`,{className:`lyrics`,children:[(0,T.jsx)(`summary`,{children:e.file===`satani-v3`?`Lyrics`:`Lyrics & chords`}),(0,T.jsx)(`div`,{lang:`my`,children:le[e.file]})]})]},e.file+n))})]})]}),(0,T.jsxs)(`footer`,{children:[(0,T.jsx)(`span`,{className:`wordmark`,children:`NAN OO`}),(0,T.jsx)(`span`,{children:`This is a demo version, not a mastered recording.`})]}),(0,T.jsxs)(`div`,{className:`player`,children:[(0,T.jsxs)(`div`,{className:`now`,children:[(0,T.jsx)(ie,{size:30,className:r?`spinning`:``}),(0,T.jsxs)(`div`,{children:[(0,T.jsx)(`small`,{children:r?`NOW PLAYING`:`READY TO PLAY`}),(0,T.jsx)(`p`,{children:E[t].title})]})]}),(0,T.jsx)(`audio`,{ref:e,controls:!0,preload:`none`,src:`./media/ivory.mp3`,onPlay:()=>i(!0),onPause:()=>i(!1),onError:()=>o(`This song could not load. Please try again.`),onEnded:()=>{i(!1),t<E.length-1&&s(t+1)}}),(0,T.jsx)(`button`,{className:`next`,"aria-label":`Next song`,onClick:()=>s((t+1)%E.length),children:(0,T.jsx)(se,{size:21})}),a&&(0,T.jsx)(`p`,{role:`alert`,className:`error`,children:a})]})]})}(0,ce.createRoot)(document.getElementById(`root`)).render((0,T.jsx)(de,{}));
